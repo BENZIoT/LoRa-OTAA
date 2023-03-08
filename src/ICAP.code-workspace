@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "E:/CPE451/MQTT/MQTT"
+		},
+		{
+			"name": "HB-TEST",
+			"path": "../../HB-TEST"
+		},
+		{
+			"name": "LORA_OTAA",
+			"path": "../../LORA_OTAA"
+		},
+		{
+			"path": "E:/DOWNLOAD/TEST_LORA_OTAA-main/TEST_LORA_OTAA-main/TEST_LORA_OTAA"
+		},
+		{
+			"path": "../../LORA_OTAA_2"
+		},
+		{
+			"name": "ESP32_LoRa_SENDER",
+			"path": "../../ESP32_LoRa_SENDER"
+		},
+		{
+			"name": "ESP32_LoRa_Resiver",
+			"path": "../../ESP32_LoRa_Resiver"
+		},
+		{
+			"path": "E:/DOWNLOAD/ttn-esp32-master/ttn-esp32-master"
+		},
+		{
+			"name": "TTN_ESP32",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"cSpell.words": [
+			"gpio"
+		],
+		"files.associations": {
+			"gpio.h": "c",
+			"lmic.h": "c",
+			"lmic_bandplan.h": "c",
+			"*.tcc": "cpp",
+			"fstream": "cpp"
+		},
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
